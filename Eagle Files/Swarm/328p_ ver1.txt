@@ -1,0 +1,14 @@
+Partlist exported from C:/Users/admin/Documents/eagle/Swarm/328p_ ver1.sch at 15-01-2016 15:36:46
+
+Part Value         Device        Package           Description                                             MF MPN           OC_FARNELL OC_NEWARK PACKAGE SUPPLIER
+C1   18pF          C2,5-3        C2.5-3            CAPACITOR                                                                                                     
+C2   8 pF          C2,5-3        C2.5-3            CAPACITOR                                                                                                     
+C3   100 uF        C2,5-3        C2.5-3            CAPACITOR                                                                                                     
+C4   10 uF         C2,5-3        C2.5-3            CAPACITOR                                                                                                     
+IC1                78XXS         78XXS             VOLTAGE REGULATOR                                                                                             
+J1   DCJ0202       DCJ0202       DCJ0202           DC POWER JACK                                                            unknown    unknown                   
+Q1   16MHz         CRYSTALHC49S  HC49/S            CRYSTAL                                                                  1667008    unknown                   
+U1   ATMEGA328P-PU ATMEGA328P-PU DIP254P762X457-28 8-bit Microcontroller with In-System Programmable Flash    ATMEGA328P-PU 1715487    15R0268   PDIP-28 Atmel   
+     IC BASE        3
+     Female header pins 3 
+     Male header pins   3
